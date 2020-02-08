@@ -1,0 +1,26 @@
+_repo: World-in-a-Mirror_61257
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Teichner, Albert
+    alias: Teichner, Albert R.
+    gutenberg_agent_id: '24789'
+    url: http://www.gutenberg.org/2009/agents/24789
+description: ''
+gutenberg_issued: '2020-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Diplomacy -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: World in a Mirror
+url: http://www.gutenberg.org/ebooks/61257
